@@ -24,3 +24,5 @@ Note:
 
 Auto generated UUIDs are used for Session ID and CSRF Token.
 
+Blog:
+https://medium.com/@ttcphilips/securing-your-php-web-application-using-double-submit-cookies-pattern-174263f7c166
